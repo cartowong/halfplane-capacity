@@ -1,7 +1,7 @@
 # Half-plane capacity and conformal radius
 ## (joint work with Steffen Rohde)
 
-This repository contains the slides for a talk I gave at The Chinese University of Hong Kong on December 12, 2011. The talk was based on the following paper.
+This repository contains the slides for a talk I gave at The University of Hong Kong on December 12, 2011. The talk was based on the following paper.
 
 - *Half-plane capacity and conformal radius*, Carto Wong and Steffen Rohde, Proceedings of the AMS, 142 (2014), 931 – 938
 
